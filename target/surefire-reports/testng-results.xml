@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation_Assignments" duration-ms="19254" started-at="2019-12-30T08:26:41Z" finished-at="2019-12-30T08:27:00Z">
+    <groups>
+    </groups>
+    <test name="Test Scenarios" duration-ms="19254" started-at="2019-12-30T08:26:41Z" finished-at="2019-12-30T08:27:00Z">
+      <class name="com.Automation_Assignments.java.IphoneCost">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.Automation_Assignments.java.IphoneCost@2c8d66b2]" name="launchBrowser" is-config="true" duration-ms="6069" started-at="2019-12-30T13:56:41Z" finished-at="2019-12-30T13:56:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="navigatetoAmezonandFlipcart()[pri:0, instance:com.Automation_Assignments.java.IphoneCost@2c8d66b2]" name="navigatetoAmezonandFlipcart" duration-ms="11980" started-at="2019-12-30T13:56:47Z" finished-at="2019-12-30T13:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetoAmezonandFlipcart -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Automation_Assignments.java.IphoneCost@2c8d66b2]" name="closeBrowser" is-config="true" duration-ms="1178" started-at="2019-12-30T13:56:59Z" finished-at="2019-12-30T13:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Automation_Assignments.java.IphoneCost -->
+    </test> <!-- Test Scenarios -->
+  </suite> <!-- Automation_Assignments -->
+</testng-results>

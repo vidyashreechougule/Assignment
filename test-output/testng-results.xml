@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48647" started-at="2019-12-30T22:36:49 IST" finished-at="2019-12-30T22:37:38 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48647" started-at="2019-12-30T22:36:49 IST" finished-at="2019-12-30T22:37:38 IST">
+      <class name="com.Automation_Assignments.java.IphoneCostOnAmezon">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.Automation_Assignments.java.IphoneCostOnAmezon@52feb982]" name="launchBrowser" is-config="true" duration-ms="7450" started-at="2019-12-30T22:36:49 IST" finished-at="2019-12-30T22:36:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="tripAdvisor()[pri:1, instance:com.Automation_Assignments.java.IphoneCostOnAmezon@52feb982]" name="tripAdvisor" duration-ms="39655" started-at="2019-12-30T22:36:57 IST" finished-at="2019-12-30T22:37:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tripAdvisor -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.Automation_Assignments.java.IphoneCostOnAmezon@52feb982]" name="closeBrowser" is-config="true" duration-ms="1452" started-at="2019-12-30T22:37:36 IST" finished-at="2019-12-30T22:37:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.Automation_Assignments.java.IphoneCostOnAmezon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
